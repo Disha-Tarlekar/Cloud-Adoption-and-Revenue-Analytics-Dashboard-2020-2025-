@@ -56,12 +56,6 @@ It visualizes trends in market share, revenue, regional spread, and key business
 
 ---
 
-## 📷 Sample Screenshots
-| ![Page1](Page1.png) | ![Page2](Page2.png) | ![Page3](Page3.png) |
-| ![Page5](Page5.png) | ![Page6](Page6.png) |
-
----
-
 ## 🛠️ Skills Demonstrated
 
 - Power BI Visualizations  
