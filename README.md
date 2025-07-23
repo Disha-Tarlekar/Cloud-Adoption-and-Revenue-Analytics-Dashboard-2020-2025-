@@ -58,11 +58,19 @@ It visualizes trends in market share, revenue, regional spread, and key business
 
 ## 📷 Sample Screenshots
 
-| Overview | Market Share | Industry Trends |
-|----------|--------------|------------------|
-| ![Page1](Page1.png) | ![Page2](Page2.png) | ![Page3](Page3.png) |
-| KPI Drivers | Smart Narrative |
-| ![Page5](Page5.png) | ![Page6](Page6.png) |
+|Page 1 : 🌐 Cloud Adoption Overview 
+(2020–2025)
+
+|Page 2 : 📊 Service   Usage Insights
+
+|Page 3 : 💳 Customer Purchase & Billing Insights
+
+|Page 4 : 📈 Azure Regional Adoption & Industry Trends
+
+|Page 5 : 🔍 Revenue Breakdown by Industry, Region, Year & Segment
+
+|Page 6 : 🌍 Market Share Drivers by Provider & Year
+
 
 ---
 
