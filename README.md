@@ -84,7 +84,7 @@ It visualizes trends in market share, revenue, regional spread, and key business
 🎓 Aspiring Data Analyst | Excel | SQL | Power BI | GitHub  
 🔗 [LinkedIn](www.linkedin.com/in/disha-tarlekar)  
 📧 [tarlekardisha1@gmail.com]  
-🗂️ Project Link: https://github.com/YourUsername/Cloud-Adoption-Dashboard
+🗂️ Project Link: https://github.com/Disha-Tarlekar/Cloud-Adoption-and-Revenue-Analytics-Dashboard-2020-2025-
 
 ---
 
